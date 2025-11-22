@@ -1,24 +1,37 @@
-﻿namespace WorkTimeTracking.Models
+﻿using System;
+
+namespace WorkTimeTracking.Models
 {
     public class Employee
     {
-        // Вимога: Поля класів повинні містити методи GET та SET
-        public string Name { get; set; }
+        public string Id { get; set; }           // Унікальний код (наприклад, #A123)
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         public string Position { get; set; }
         public int HoursWorked { get; set; }
+        public string Login { get; set; }
+        public string Password { get; set; }
 
-        // Конструктор для зручності
-        public Employee(string name, string position, int hours)
+        // Нова властивість: Чи підтверджений адміном?
+        public bool IsVerified { get; set; }
+
+        public string FullName => $"{LastName} {FirstName}";
+        // Для відображення статусу в адмінці
+        public string StatusInfo => IsVerified ? "Активний" : "Очікує підтвердження";
+        public string ColorStatus => IsVerified ? "Green" : "Red";
+
+        public Employee(string fName, string lName, string position, int hours, string password, bool isVerified = false)
         {
-            Name = name;
+            // Генеруємо випадковий ID з 4 символів
+            Id = "#" + Guid.NewGuid().ToString().Substring(0, 4).ToUpper();
+
+            FirstName = fName;
+            LastName = lName;
             Position = position;
             HoursWorked = hours;
-        }
-
-        // Перевизначимо ToString, щоб у списку гарно відображалось, якщо DataTemplate не спрацює
-        public override string ToString()
-        {
-            return $"{Name} ({Position}) - {HoursWorked} год.";
+            Login = lName.ToLower();
+            Password = password;
+            IsVerified = isVerified;
         }
     }
 }

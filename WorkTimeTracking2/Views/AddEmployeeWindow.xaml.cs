@@ -15,35 +15,28 @@ namespace WorkTimeTracking.Views
 
         private void Add_Click(object sender, RoutedEventArgs e)
         {
-            // Вимога: Використання конструкції try{}catch{}
             try
             {
-                // Перевірка на пусті поля
-                if (string.IsNullOrWhiteSpace(tbName.Text) || string.IsNullOrWhiteSpace(tbPosition.Text))
+                if (string.IsNullOrWhiteSpace(tbFirstName.Text) || string.IsNullOrWhiteSpace(tbLastName.Text))
                 {
-                    MessageBox.Show("Будь ласка, заповніть всі текстові поля!");
+                    MessageBox.Show("Введіть ім'я та прізвище!");
                     return;
                 }
 
-                string name = tbName.Text;
-                string position = tbPosition.Text;
+                NewEmployee = new Employee(
+                    tbFirstName.Text,
+                    tbLastName.Text,
+                    tbPosition.Text,
+                    int.Parse(tbHours.Text),
+                    tbPassword.Text // передаємо пароль
+                );
 
-                // Тут може виникнути помилка формату, якщо ввести літери замість цифр
-                int hours = int.Parse(tbHours.Text);
-
-                NewEmployee = new Employee(name, position, hours);
-
-                // Вказуємо, що результат діалогу позитивний
                 DialogResult = true;
                 Close();
             }
-            catch (FormatException)
-            {
-                MessageBox.Show("Поле 'Години' може містити лише число!", "Помилка формату", MessageBoxButton.OK, MessageBoxImage.Warning);
-            }
             catch (Exception ex)
             {
-                MessageBox.Show("Критична помилка: " + ex.Message, "Помилка", MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("Помилка: " + ex.Message);
             }
         }
     }

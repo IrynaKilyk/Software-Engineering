@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\kiluk\OneDrive\Desktop\3 курс\Інженерія програмного забезпечення\lab\Software-Engineering\WorkTimeTracking2\App.xaml
-3-1750539522
+6-600173498
 
-7761797966
+12890630844
 13-1310406943
-MainWindow.xaml;Styles\Styles.xaml;Views\AddEmployeeWindow.xaml;
+MainWindow.xaml;Styles\Styles.xaml;Views\AddEmployeeWindow.xaml;Views\EmployeeWindow.xaml;Views\LoginWindow.xaml;Views\RegisterWindow.xaml;
 
 False
 
