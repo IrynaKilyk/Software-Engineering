@@ -1,0 +1,11 @@
+start stop
+// comment
+start var stop integer input output
+if then else
+x y result res
+:=+-*/><<>!&|;,)(
+456 -987 %^:_
+// else comment
+q:=8;
+// hello
+integer;

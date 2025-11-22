@@ -1,0 +1,17 @@
+prog2.K10
+Name prog2;
+Data 
+Integer16_t  _A, _B, _C
+Body 
+Get (_A);
+Get (_B);
+Get (_C);
+If _A >~ _B &&  _A >~ _C Then go to M1;
+If _B>~ _A&&  _B >~ _C Then go to M2; 
+If _C>~ _A &&  _C >~ _B Then go to M3;
+_M1: Put (_A);
+        Goto _M4
+_M2: Put (_B);
+        Goto _M4
+_M3: Put (_C);
+                _M4: End

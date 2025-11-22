@@ -1,0 +1,35 @@
+﻿<Window x:Class="WorkTimeTracking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Система обліку робочого часу" Height="450" Width="700" WindowStartupLocation="CenterScreen">
+
+    <Grid Background="#FAFAFA">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Список працівників" FontSize="24" Margin="20" FontWeight="Bold" Grid.Row="0"/>
+
+        <ListBox x:Name="EmployeesList" Grid.Row="1" Margin="20 0 20 0" BorderBrush="#DDDDDD" BorderThickness="1">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock Text="{Binding Name}" FontWeight="Bold" Width="150"/>
+                        <TextBlock Text="{Binding Position}" Width="150" Foreground="Gray"/>
+                        <TextBlock Text="{Binding HoursWorked, StringFormat={}Години: {0}}" Foreground="Green"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <StackPanel Grid.Row="2" Margin="20">
+            <Button Content="Додати працівника"
+                    Style="{StaticResource PrimaryButton}"
+                    HorizontalAlignment="Left"
+                    Width="200"
+                    Click="AddEmployee_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

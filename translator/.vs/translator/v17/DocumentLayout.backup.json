@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\translator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F672C9-EB0B-440B-B246-9A8CD92BBB2E}|translator.vcxproj|C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\translator\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F672C9-EB0B-440B-B246-9A8CD92BBB2E}|translator.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F672C9-EB0B-440B-B246-9A8CD92BBB2E}|translator.vcxproj|C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\translator\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F672C9-EB0B-440B-B246-9A8CD92BBB2E}|translator.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\translator\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\translator\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAkDAAAAAAAAAAAAAMEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T14:11:47.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\translator\\Header.h",
+              "RelativeDocumentMoniker": "Header.h",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\translator\\Header.h",
+              "RelativeToolTip": "Header.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-16T14:11:16.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\views\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:views\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\views\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:views\\addemployeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|c:\\users\\kiluk\\onedrive\\desktop\\3 \u043A\u0443\u0440\u0441\\\u0456\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\software-engineering\\worktimetracking2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D580D44C-1B46-4372-8A8C-D7FE25B48A64}|WorkTimeTracking2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:12:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Views\\AddEmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddEmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Views\\AddEmployeeWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AddEmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:08:40.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T08:08:05.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Styles\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T08:07:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Views\\AddEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AddEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Views\\AddEmployeeWindow.xaml",
+              "RelativeToolTip": "Views\\AddEmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T08:06:58.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:06:00.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-22T08:04:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kiluk\\OneDrive\\Desktop\\3 \u043A\u0443\u0440\u0441\\\u0406\u043D\u0436\u0435\u043D\u0435\u0440\u0456\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\lab\\Software-Engineering\\WorkTimeTracking2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:04:38.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
